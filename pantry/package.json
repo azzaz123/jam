@@ -15,10 +15,10 @@
     "handy-redis": "^2.2.1",
     "morgan": "^1.10.0",
     "nets": "^3.2.0",
-    "redis": "^3.0.2",
+    "redis": "^3.1.1",
     "simple-signed-records-engine": "0.1.1",
     "tweetnacl": "^1.0.3",
-    "ws": "^7.4.5"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "eslint": "^7.24.0"
