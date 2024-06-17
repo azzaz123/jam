@@ -18,7 +18,7 @@
     "redis": "^3.1.1",
     "simple-signed-records-engine": "0.1.1",
     "tweetnacl": "^1.0.3",
-    "ws": "^7.4.6"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "eslint": "^7.24.0"
