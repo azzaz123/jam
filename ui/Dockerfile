@@ -1,4 +1,4 @@
-FROM node:alpine AS builder
+FROM node:23.11.1-alpine3.21 AS builder
 
 COPY yarn.lock package.json ./
 
@@ -6,7 +6,7 @@ RUN yarn
 COPY . .
 RUN yarn build
 
-FROM node:alpine
+FROM node:23.11.1-alpine3.21
 
 ENV JAM_CONFIG_DIR=/jam-config
 
