@@ -13,7 +13,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "handy-redis": "^2.2.1",
-    "morgan": "^1.10.0",
+    "morgan": "^1.10.1",
     "nets": "^3.2.0",
     "redis": "^3.1.1",
     "simple-signed-records-engine": "0.1.1",
